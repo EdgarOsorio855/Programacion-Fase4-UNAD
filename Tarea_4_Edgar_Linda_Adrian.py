@@ -1,3 +1,14 @@
+# Universidad Nacional Abierta y a Distancia - UNAD
+# Curso: Programación - 213023
+# Fase 4 - Componente práctico
+# Grupo: 512
+# PROYECTO: SOFTWARE FJ
+# SISTEMA DE GESTIÓN DE CLIENTES, SERVICIOS Y RESERVAS
+# Integrantes:
+# Edgar Guiovany Osorio Triana
+# Linda Gineth Albornoz Cárdenas
+# Adrián Felipe Navarrete Tangarife
+
 # Permite guardar los errores y resultados en un archivo.
 import logging
 # Importa lo necesario para crear clases abstractas.
