@@ -2,15 +2,12 @@
 
 ### Descripción del proyecto
 
-Este proyecto hace parte de la Fase 4 del curso de Programación de la Universidad Nacional Abierta y a Distancia (UNAD).
+Este proyecto corresponde a la Fase 4 del curso de Programación de la Universidad Nacional Abierta ya Distancia (UNAD). Consiste en el desarrollo de un programa en Python que simula la gestión de clientes, servicios y reservas para la empresa Software FJ . Para su construcción se aplicarán los pilares de la Programación Orientada a Objetos (herencia, polimorfismo, abstracción y encapsulación), junto con el manejo de excepciones para controlar errores durante la ejecución.
 
-El trabajo consiste en desarrollar un programa en Python que permita simular la gestión de clientes, servicios y reservas de una empresa llamada Software FJ.
-
-Para su desarrollo se utilizaron conceptos de programación orientada a objetos, como la herencia, el polimorfismo, la abstracción y la encapsulación. También se implementó el manejo de excepciones para controlar los errores que puedan presentarse durante la ejecución.
 
 ### Objetivo
 
-Aplicar los conocimientos adquiridos durante el curso mediante el desarrollo de un programa que permita gestionar clientes, servicios y reservas, utilizando clases, objetos y manejo de excepciones para evitar que el sistema se detenga cuando se presentan errores.
+Aplicar los conceptos de Programación Orientada a Objetos y manejo de excepciones en Python mediante el desarrollo de un sistema de gestión de clientes, servicios y reservas, garantizando que la aplicación controle los fallos sin detener su ejecución.
 
 ### Funcionamiento del programa
 
@@ -30,17 +27,11 @@ El programa utiliza clases y objetos para manejar la información, sin necesidad
 
 ### Manejo de excepciones
 
-Una parte importante de este trabajo es el manejo de errores en Python.
-
-Para ello se utilizaron excepciones personalizadas y estructuras como `try`, `except`, `else` y `finally`. También se incluyó el encadenamiento de excepciones.
-
-Estas herramientas permiten identificar situaciones incorrectas, mostrar mensajes relacionados con los errores y continuar con la ejecución de las siguientes operaciones.
+Para garantizar la estabilidad del sistema, se implementaron excepciones personalizadas y bloques `try`, `except`, `else` y `finally`, además del encadenamiento de excepciones. Esto permite capturar datos o acciones inválidas, informar al usuario y continuar con el flujo normal de las operaciones restantes.
 
 ### Simulación de operaciones
 
-Para comprobar el funcionamiento del programa se incluyeron 12 operaciones que representan diferentes situaciones relacionadas con clientes, servicios y reservas.
-
-En la última ejecución se obtuvieron los siguientes resultados:
+Para validar el comportamiento del sistema, se incluyen 12 casos de prueba que simulan distintas situaciones con clientes, servicios y reservas. En la última ejecución se obtuvieron los siguientes resultados:
 
 - 7 operaciones realizadas correctamente.
 - 5 operaciones con errores controlados.
