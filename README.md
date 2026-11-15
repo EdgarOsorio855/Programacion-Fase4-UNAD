@@ -2,7 +2,7 @@
 
 ### Descripción del proyecto
 
-Este proyecto corresponde a la Fase 4 del curso de Programación de la Universidad Nacional Abierta ya Distancia (UNAD). Consiste en el desarrollo de un programa en Python que simula la gestión de clientes, servicios y reservas para la empresa Software FJ . Para su construcción se aplicarán los pilares de la Programación Orientada a Objetos (herencia, polimorfismo, abstracción y encapsulación), junto con el manejo de excepciones para controlar errores durante la ejecución.
+Este proyecto corresponde a la Fase 4 del curso de Programación de la Universidad Nacional Abierta y a Distancia (UNAD). Consiste en el desarrollo de un programa en Python que simula la gestión de clientes, servicios y reservas para la empresa Software FJ . Para su construcción se aplicarán los pilares de la Programación Orientada a Objetos (herencia, polimorfismo, abstracción y encapsulación), junto con el manejo de excepciones para controlar errores durante la ejecución.
 
 
 ### Objetivo
