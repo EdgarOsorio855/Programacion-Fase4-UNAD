@@ -41,7 +41,7 @@ Los resultados permiten observar cómo el sistema responde ante operaciones vál
 
 ### Archivo del proyecto
 
-El archivo principal es `Tarea_4_Edgar_Osorio.py`, donde se encuentran las clases, los métodos, las validaciones y las operaciones de simulación.
+El archivo principal es `Tarea_4_Edgar_Linda_Adrian.py`, donde se encuentran las clases, los métodos, las validaciones y las operaciones de simulación.
 
 Al ejecutar el programa se utiliza el archivo `errores_sistema.log` para registrar los eventos y errores.
 
@@ -49,7 +49,7 @@ Al ejecutar el programa se utiliza el archivo `errores_sistema.log` para registr
 
 Para ejecutar el programa es necesario contar con Python.
 
-1. Descargar el archivo `Tarea_4_Edgar_Osorio.py`.
+1. Descargar el archivo `Tarea_4_Edgar_Linda_Adrian.py`.
 2. Abrirlo en un entorno de programación compatible con Python.
 3. Ejecutar el programa.
 4. Revisar los resultados que aparecen en pantalla.
