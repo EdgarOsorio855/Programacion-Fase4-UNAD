@@ -6,7 +6,7 @@
 # SISTEMA DE GESTIÓN DE CLIENTES, SERVICIOS Y RESERVAS
 # Integrantes:
 # Edgar Guiovany Osorio Triana
-# Linda Gineth Albornoz Cárdenas
+# Linda Gineth Álvarez Boyacá
 # Adrián Felipe Navarrete Tangarife
 
 # Permite guardar los errores y resultados en un archivo.
